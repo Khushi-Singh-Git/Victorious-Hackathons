@@ -12,6 +12,8 @@ Development of IoT Enabled Low-Cost SPO2 and Heart Rate Monitor system. Real-tim
 
 ## Winner of best MLH hardware hack:
 
+![Screenshot (3866)](https://user-images.githubusercontent.com/107871742/180263447-3439c9b1-056a-4caf-8ec0-55a670310f2e.png)
+
 ![2  Hack36_Winner_Team Aiders](https://user-images.githubusercontent.com/107871742/174879603-5acc85e6-9617-40be-8b67-8bb6d3dd4922.png)
 
 ---
