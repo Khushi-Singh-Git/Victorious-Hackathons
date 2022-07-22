@@ -11,6 +11,9 @@ Design and Development of hardware prototype of UVC Sanitizer System for vehicle
 
 ![1  FrostHack21' Winner _Team Aiders](https://user-images.githubusercontent.com/107871742/174881556-a8bfd740-9c45-4074-acff-ec3c67ab033c.png)
 
+![Screenshot (3867)](https://user-images.githubusercontent.com/107871742/180364100-88fb7b10-8d51-49cf-86d9-e7824f5622ce.png)
+
+
 ## Prototype picture:
 
 ![Screenshot (2496)](https://user-images.githubusercontent.com/107871742/174881717-298db301-04a8-433e-b5fe-bae5fa48f5f4.png)
