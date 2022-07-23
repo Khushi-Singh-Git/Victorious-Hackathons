@@ -11,6 +11,8 @@ The project realized the concept of precision agriculture through a climate cont
 
 ![KU HACK WINNER CERTIFICATE_Khushi Singh](https://user-images.githubusercontent.com/107871742/174877670-9f55d821-79a0-49e7-8857-d35f9eee8591.jpg)
 
+![Screenshot (3865)](https://user-images.githubusercontent.com/107871742/180598289-efebac63-ca98-4913-8ad3-62d149fe6ad3.png)
+
 ---
 
 ## Participation certificate
