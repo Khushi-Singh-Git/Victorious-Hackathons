@@ -7,14 +7,12 @@ Development of UVC Sanitizer System for Vehicles for COVID-19
 Design and Development of hardware prototype of UVC Sanitizer System for vehicles for COVID-19 using UVC LED arrays and controlling them through Mobile App.
 
 ---
-## Merit token: 
+## :star: Merit token: 
 
-![1  FrostHack21' Winner _Team Aiders](https://user-images.githubusercontent.com/107871742/174881556-a8bfd740-9c45-4074-acff-ec3c67ab033c.png)
-
-![Screenshot (3867)](https://user-images.githubusercontent.com/107871742/180364100-88fb7b10-8d51-49cf-86d9-e7824f5622ce.png)
+![three](https://user-images.githubusercontent.com/107871742/182302205-2c8930c5-cfea-4141-9d37-7d853be35a58.jpeg)
 
 
-## Prototype picture:
+## 🚙 Prototype picture:
 
 ![Screenshot (2496)](https://user-images.githubusercontent.com/107871742/174881717-298db301-04a8-433e-b5fe-bae5fa48f5f4.png)
 
